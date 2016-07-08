@@ -16,7 +16,7 @@ L’Esecutivo delibera autonomamente, riferendo al Consiglio, sugli argomenti di
 Il Collegio esercita l’attività di controllo degli atti amministrativi del Consiglio Direttivo della propria struttura
 
 ### Consiglio Esecutivo
-#### *in attività dal 2013 al 2017*
+*in attività dal 2013 al 2017*
 
 * Presidente: **Antonella Paganini**
 * Vice-Presidente Vicario: **Fabio Bergamini**
