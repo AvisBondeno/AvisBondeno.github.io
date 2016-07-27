@@ -4,6 +4,6 @@ title: Calendario Donazioni
 permalink: /calendario/
 ---
 
-<div id="container>
+<div id="container">
 <img src="/images/calendario.png">
 </div>
