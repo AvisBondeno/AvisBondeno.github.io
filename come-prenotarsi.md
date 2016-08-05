@@ -14,7 +14,7 @@ Ognuno di voi potrà scegliere un orario dalle 8,10 alle 10,45  - nei giorni di 
 
 Sul sito **[www.avis-bondeno.it](http://www.avis-bondeno.it/)** sono presenti  il calendario donazioni e la tabella orari  per verificare se l’orario desiderato sia ancora libero oppure già prenotato.
 
-Per chi non accede ad internet si può contattare la sede AVIS negli orari di apertura.
+Inoltre, si può contattare la sede AVIS negli orari di apertura.
 
 ###  Come prenotarsi
 
