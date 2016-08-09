@@ -6,7 +6,7 @@ permalink: /come-prenotarsi/
 
 _Carissime Donatrici, Carissimi Donatori,_
 
-Vi comunichiamo che a partire dal **19 agosto 2016** sarà possibile _**prenotare**_ la VOSTRA donazione: in modo semplice e veloce potrete scegliere l’ora e il giorno in cui donare. 
+Vi comunichiamo che a partire dal **4 settembre 2016** sarà possibile _**prenotare**_ la VOSTRA donazione: in modo semplice e veloce potrete scegliere l’ora e il giorno in cui donare. 
 
 Individuando in modo puntuale il momento della donazione non solo eviterete  code e perdite di tempo non necessarie, ma,  altresì contribuirete  ad una più  razionale programmazione delle  attività trasfusionali. 
 
