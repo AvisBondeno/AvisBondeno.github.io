@@ -28,6 +28,8 @@ Inoltre, si può contattare la sede AVIS negli orari di apertura.
 - Inviando una e-mail	all’indirizzo [donatori@avis-bondeno.it](mailto:donatori@avis-bondeno.it)
 	 e attendendo la conferma  nel primo orario  di apertura utile 
 	(dalle 10.15 alle 12,00). 
+	
+- **Scrivendo alla nostra pagina facebook, h24. Attendete la conferma della vostra prenotazone.**
 
 Per ulteriori informazioni non esitate a contattarci anche tramite la nostra pagina Facebook “AVIS Bondeno”.
 
