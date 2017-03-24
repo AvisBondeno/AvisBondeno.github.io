@@ -9,11 +9,11 @@ Il Consiglio esercita i poteri di ordinaria e straordinaria amministrazione.
 
 **Esecutivo**
 
-L’Esecutivo delibera autonomamente, riferendo al Consiglio, sugli argomenti di sua competenza, esegue le delibere del Consiglio, assume le decisioni urgenti,  cura l’ordinaria amministrazione
+L’Esecutivo delibera autonomamente, riferendo al Consiglio, sugli argomenti di sua competenza, esegue le delibere del Consiglio, assume le decisioni urgenti,  cura l’ordinaria amministrazione.
 
 **Collegio Revisori**
 
-Il Collegio esercita l’attività di controllo degli atti amministrativi del Consiglio Direttivo della propria struttura
+Il Collegio esercita l’attività di controllo degli atti amministrativi del Consiglio Direttivo della propria struttura.
 
 ### Consiglio Esecutivo
 *in attività dal 2017 al 2021*
@@ -30,7 +30,7 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 * Raccolta sangue: **Giuseppe Rigattieri, Raoul Bonfiglioli**
 * Frazioni: **Graziano Piazzi**
 
-### Consiglio Di AVIS Comunale di Bondeno
+### Soci Consiglieri
 * Mario Sforza
 * Antonella Paganini
 * Rita Ballerini
@@ -44,10 +44,10 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 * Graziano Piazzi
 
 ### Collegio dei Sindaci Revisori 
-**Franco Vallieri, Franco Frignani, Cristina Turatti**
+* **Franco Vallieri, Franco Frignani, Cristina Turatti**
 
 ### Medico Sociale 
-**Dott.ssa Cristina Galiera**	
+* **Dott.ssa Cristina Galiera**	
 
 ### Soci Collaboratori
 
