@@ -24,6 +24,7 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 * Segretario: **Rita Ballerini**
 * Tesoriere: **Antonella Paganini**
 
+
 * Area Scuola: **Fabrizio Nicoli**
 * Giovani e Sport: **Elisa Buzzi**
 * Stampa: **Fabio Bergamini**
