@@ -15,7 +15,7 @@ L’Esecutivo delibera autonomamente, riferendo al Consiglio, sugli argomenti di
 
 Il Collegio esercita l’attività di controllo degli atti amministrativi del Consiglio Direttivo della propria struttura.
 
-### Consiglio Esecutivo
+### Consiglio Direttivo
 *in attività dal 2017 al 2021*
 
 * Presidente: **Mario Sforza**
@@ -24,25 +24,21 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 * Segretario: **Rita Ballerini**
 * Tesoriere: **Antonella Paganini**
 
+* Commisione Stampa: **Fabio Bergamini**
+* Commissione Raccolta sangue: **Giuseppe Rigattieri, Raoul Bonfiglioli**
 
-* Area Scuola: **Fabrizio Nicoli**
-* Giovani e Sport: **Elisa Buzzi**
-* Stampa: **Fabio Bergamini**
-* Raccolta sangue: **Giuseppe Rigattieri, Raoul Bonfiglioli**
-* Frazioni: **Graziano Piazzi**
-
-### Soci Consiglieri
-* Mario Sforza
-* Antonella Paganini
-* Rita Ballerini
-* Fabio Bergamini
-* Fabrizio Nivoli
-* Felilce Manfredini
-* Giuseppe Rigattieri
+### Consiglio Esecutivo
+* Mario Sforza - Presidente
+* Antonella Paganini - VicePresidente Vicario
+* Rita Ballerini - Segretario
+* Fabio Bergamini - VicePresidente
+* **Fabrizio Nicoli** - Referente Area Scuola
+* **Elisa Buzzi** - Referente Giovani e Sport
+* **Felilce Manfredini** - Referente Organizzazione e Sviluppo
+* **Giuseppe Rigattieri** - Referente commissione raccolta sangue
 * Raoul Bonfiglioli
-* Elisa Buzzi
 * Andrea Salvi
-* Graziano Piazzi
+* **Graziano Piazzi** - Referente per le Frazioni
 
 ### Collegio dei Sindaci Revisori 
 * **Franco Vallieri, Franco Frignani, Cristina Turatti**
@@ -53,6 +49,6 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 ### Soci Collaboratori
 
 * Area Scuola: **Fabio Bergamini**, **Stefania Bellini**
-* Organizzazione e Sviluppo: **Felice Manfredini**, **Davide Morandi**
+* Organizzazione e Sviluppo: **Davide Morandi**
 * Raccolta Sangue: **Miller Reggiani**
 * Rapporti con le Avis consorelle: **Andrea Salvi**, **Lino Vancini**
