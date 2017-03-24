@@ -5,7 +5,7 @@ permalink: /chi-siamo/
 ---
 **Consiglio Direttivo**
 
-Il Consiglio esercita i poteri di ordinaria e straordinaria amministrazione
+Il Consiglio esercita i poteri di ordinaria e straordinaria amministrazione.
 
 **Esecutivo**
 
@@ -16,19 +16,32 @@ L’Esecutivo delibera autonomamente, riferendo al Consiglio, sugli argomenti di
 Il Collegio esercita l’attività di controllo degli atti amministrativi del Consiglio Direttivo della propria struttura
 
 ### Consiglio Esecutivo
-*in attività dal 2013 al 2017*
+*in attività dal 2017 al 2021*
 
-* Presidente: **Antonella Paganini**
-* Vice-Presidente Vicario: **Fabio Bergamini**
-* Vice-Presidente: **Aurelio Tulipanti**
-* Segretario: **Mario Sforza**
-* Tesoriere: **Mario Sforza**
+* Presidente: **Mario Sforza**
+* Vice-Presidente Vicario: **Antonella Paganini**
+* Vice-Presidente: **Fabio Bergamini**
+* Segretario: **Rita Ballerini**
+* Tesoriere: **Antonella Paganini**
 
-* Area Scuola: **Fabio Bergamini**
-* Giovani e Sport: **Vanni Longatti**, **Mauro Bonora**
-* Stampa: **Luca Passarelli**
-* Raccolta sangue: **Giuseppe Rigattieri, Marco Zancoghi**
+* Area Scuola: **Fabrizio Nicoli**
+* Giovani e Sport: **Elisa Buzzi**
+* Stampa: **Fabio Bergamini**
+* Raccolta sangue: **Giuseppe Rigattieri, Raoul Bonfiglioli**
 * Frazioni: **Graziano Piazzi**
+
+### Consiglio Di AVIS Comunale di Bondeno
+* Mario Sforza
+* Antonella Paganini
+* Rita Ballerini
+* Fabio Bergamini
+* Fabrizio Nivoli
+* Felilce Manfredini
+* Giuseppe Rigattieri
+* Raoul Bonfiglioli
+* Elisa Buzzi
+* Andrea Salvi
+* Graziano Piazzi
 
 ### Collegio dei Sindaci Revisori 
 **Franco Vallieri, Franco Frignani, Cristina Turatti**
@@ -38,7 +51,7 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 
 ### Soci Collaboratori
 
-* Area Scuola: **Fabrizio Nicoli**, **Stefania Bellini**
+* Area Scuola: **Fabio Bergamini**, **Stefania Bellini**
 * Organizzazione e Sviluppo: **Felice Manfredini**, **Davide Morandi**
-* Raccolta Sangue: **Miller Reggiani**, **Aurelio Tulipanti**
+* Raccolta Sangue: **Miller Reggiani**
 * Rapporti con le Avis consorelle: **Andrea Salvi**, **Lino Vancini**
