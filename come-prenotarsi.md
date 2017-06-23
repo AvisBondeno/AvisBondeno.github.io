@@ -19,7 +19,7 @@ Inoltre, si può contattare la sede AVIS negli orari di apertura.
 ###  Come prenotarsi
 
 - Chiamando
-	dalle 10,15  alle 12,00, tutti i giorni – escluso  la domenica, il numero **3206657018,** 
+	dalle 10,00 alle 12,00, tutti i giorni – escluso  la domenica, il numero **3206657018,** oppure il numero **0532892032** 
 
 - []()Recandosi
 	direttamente in sede, in via dei Mille n°16,  dal lunedì al sabato
@@ -27,7 +27,7 @@ Inoltre, si può contattare la sede AVIS negli orari di apertura.
 
 - Inviando una e-mail	all’indirizzo [donatori@avis-bondeno.it](mailto:donatori@avis-bondeno.it)
 	 e attendendo la conferma  nel primo orario  di apertura utile 
-	(dalle 10.15 alle 12,00). 
+	(dalle 10.00 alle 12,00). 
 	
 - **Scrivendo alla nostra pagina facebook, h24. Attendete la conferma della vostra prenotazone.**
 
