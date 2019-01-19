@@ -44,7 +44,7 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 * **Franco Vallieri, Franco Frignani, Cristina Turatti**
 
 ### Medico Sociale 
-* **Dott.ssa Cristina Galiera**	
+* **Dott. Fabio Bergamini**	
 
 ### Soci Collaboratori
 
