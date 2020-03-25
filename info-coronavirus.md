@@ -25,10 +25,7 @@ Per più informazioni consulta le nostre pagine:
 Ti aspettiamo!!
 
 
-Altre risorse:
-* Leggi la [lettera di ringraziamento ai donatori](/CIVIS-lettera-ringraziamento.pdf) e raccomandazioni su programmazione raccolta
-* Consulta [Il Memorandum del Donatore](/memorandum_donatore.pdf)
-
+Leggi la [lettera di ringraziamento ai donatori](/CIVIS-lettera-ringraziamento.pdf) e raccomandazioni su programmazione raccolta
 
 <div id="container" style='position: center'>
 <img src="/images/andare-a-donare.jpg">
