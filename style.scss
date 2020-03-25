@@ -319,7 +319,7 @@ div#captioned-gallery {
 }
 figure.slider { 
   position: relative; width: 500%;
-  font-size: 0; animation: 30s slidy infinite; 
+  font-size: 0; animation: 60s slidy infinite; 
 }
 figure.slider figure { 
   width: 20%; height: auto;
@@ -331,4 +331,24 @@ figure.slider figure figcaption {
   background: rgba(0,0,0,0.4);
   color: #fff; width: 100%;
   font-size: 2rem; padding: .6rem; 
+}
+
+.carousel{
+  width:110%;
+  margin:0px auto;
+}
+
+.slick-slide{
+  margin:10px;
+}
+
+.slick-slide img{
+  width:100%;
+  border: 2px solid #fff;
+}
+
+.slick-slide{
+  img{
+    width: 100%;
+  }
 }
