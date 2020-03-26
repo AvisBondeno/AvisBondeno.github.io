@@ -6,13 +6,13 @@ permalink: /come-prenotarsi/
 
 _Carissime Donatrici, Carissimi Donatori,_
 
-Vi comunichiamo che a partire dal **4 settembre 2016** sarà possibile _**prenotare**_ la VOSTRA donazione: in modo semplice e veloce potrete scegliere l’ora e il giorno in cui donare. 
+É possibile _**prenotare**_ la VOSTRA donazione: in modo semplice e veloce potrete scegliere l’ora e il giorno in cui donare. 
 
 Individuando in modo puntuale il momento della donazione non solo eviterete  code e perdite di tempo non necessarie, ma,  altresì contribuirete  ad una più  razionale programmazione delle  attività trasfusionali. 
 
 Ognuno di voi potrà scegliere un orario dalle 8,10 alle 10,45  - nei giorni di donazione -  nel quale avere accesso all’accettazione.
 
-Sul sito **[www.avis-bondeno.it](http://www.avis-bondeno.it/)** sono presenti  il calendario donazioni e la tabella orari  per verificare se l’orario desiderato sia ancora libero oppure già prenotato.
+Su questo sito sono presenti  il [calendario donazioni](/calendario) e la [tabella orari](/prenotazioni) per verificare se l’orario desiderato sia ancora libero oppure già prenotato.
 
 Inoltre, si può contattare la sede AVIS negli orari di apertura.
 
