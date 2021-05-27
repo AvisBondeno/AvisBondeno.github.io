@@ -9,14 +9,16 @@ Il Consiglio esercita i poteri di ordinaria e straordinaria amministrazione.
 
 **Esecutivo**
 
-L’Esecutivo delibera autonomamente, riferendo al Consiglio, sugli argomenti di sua competenza, esegue le delibere del Consiglio, assume le decisioni urgenti,  cura l’ordinaria amministrazione.
+L’Esecutivo delibera autonomamente, riferendo al Consiglio, sugli argomenti di sua competenza, esegue le delibere del Consiglio, assume le decisioni urgenti, cura l’ordinaria amministrazione.
 
 **Collegio Revisori**
 
 Il Collegio esercita l’attività di controllo degli atti amministrativi del Consiglio Direttivo della propria struttura.
 
-### Consiglio Direttivo
-*Quadriennio 2021 al 2024*
+## *Quadriennio 2021 - 2024*
+## Consiglio Direttivo
+
+### Consiglio Esecutivo
 
 * Presidente: **Mario Sforza**
 * Vice-Presidente Vicario con delega **"Tesoriere"**: **Antonella Paganini**
@@ -29,14 +31,16 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 * Scuola: **Fabrizio Nicoli**
 * Giovani e Sport: **Mauro Costanzelli**
 * Frazioni: **Graziano Piazzi**
+
+### Consiglieri
 * Commissione sangue: **Miller Reggiani**
 * Commissione sangue: **Enzo Gozzi**
 * Commissione sangue: **Raoul Bonfiglioli**
 * Commissione Sport: **Giulio Fabbri**
 * Commissione Sport: **Eros Tartari**
 * Commissione Sport: **Elisa Buzzi**
-* Responsabile Sito Internet: **Enrico Bergamini**
 
+* Responsabile Sito Internet: **Enrico Bergamini**
 
 ### SOCI COLLABORATORI OSSERVATORI
 
@@ -50,6 +54,6 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 
 ### COLLEGIO DEI REVISORI DEI CONTI
 
-* **Franco Frignani**
-* **Franco Vallieri**
-* **Giulio Poletti**
+* Membro Effettivo: **Franco Frignani**
+* Membro Effettivo: **Franco Vallieri**
+* Membro Effettivo: **Giulio Poletti**
