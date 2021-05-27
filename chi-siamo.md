@@ -15,6 +15,7 @@ L’Esecutivo delibera autonomamente, riferendo al Consiglio, sugli argomenti di
 
 Il Collegio esercita l’attività di controllo degli atti amministrativi del Consiglio Direttivo della propria struttura.
 
+
 ## *Quadriennio 2021 - 2024*
 ## Consiglio Direttivo
 
