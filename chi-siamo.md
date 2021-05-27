@@ -3,6 +3,7 @@ layout: page
 title: Chi Siamo
 permalink: /chi-siamo/
 ---
+
 **Consiglio Direttivo**
 
 Il Consiglio esercita i poteri di ordinaria e straordinaria amministrazione.
@@ -17,8 +18,8 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 
 
 ## *Quadriennio 2021 - 2024*
-## Consiglio Direttivo
 
+## Consiglio Direttivo
 ### Consiglio Esecutivo
 
 * Presidente: **Mario Sforza**
@@ -33,17 +34,18 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 * Giovani e Sport: **Mauro Costanzelli**
 * Frazioni: **Graziano Piazzi**
 
+
 ### Consiglieri
+
 * Commissione sangue: **Miller Reggiani**
 * Commissione sangue: **Enzo Gozzi**
 * Commissione sangue: **Raoul Bonfiglioli**
 * Commissione Sport: **Giulio Fabbri**
 * Commissione Sport: **Eros Tartari**
 * Commissione Sport: **Elisa Buzzi**
-
 * Responsabile Sito Internet: **Enrico Bergamini**
 
-### SOCI COLLABORATORI OSSERVATORI
+### Soci Collaboratori
 
 * Commissione sangue: **Daniele Paganelli**
 * Commissione sangue: **Stefano Boschetti**
@@ -53,7 +55,7 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 * Attività associativa: **Andrea Marchetti**
 * Attività associativa: **Daniele Romagnoli**
 
-### COLLEGIO DEI REVISORI DEI CONTI
+### Collegio dei Sindaci Revisori dei Conti 
 
 * Membro Effettivo: **Franco Frignani**
 * Membro Effettivo: **Franco Vallieri**
