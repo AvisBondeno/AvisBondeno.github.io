@@ -16,39 +16,40 @@ L’Esecutivo delibera autonomamente, riferendo al Consiglio, sugli argomenti di
 Il Collegio esercita l’attività di controllo degli atti amministrativi del Consiglio Direttivo della propria struttura.
 
 ### Consiglio Direttivo
-*in attività dal 2017 al 2021*
+*Quadriennio 2021 al 2024*
 
 * Presidente: **Mario Sforza**
-* Vice-Presidente Vicario: **Antonella Paganini**
-* Vice-Presidente: **Fabio Bergamini**
+* Vice-Presidente Vicario con delega **"Tesoriere"**: **Antonella Paganini**
+* Vice-Presidente con delega **"Propaganda Informatica Scuola"**: **Luca Palazzi**
 * Segretario: **Rita Ballerini**
-* Tesoriere: **Antonella Paganini**
+* Direttore Sanitario: **Sara Cornacchini**
+* Raccolta Sangue: **Luigi Migliari**
+* Gestione donatori: **Giuseppe Rigattieri**
+* Coordinamento attività associativa: **Felice Manfredini**
+* Scuola: **Fabrizio Nicoli**
+* Giovani e Sport: **Mauro Costanzelli**
+* Frazioni: **Graziano Piazzi**
+* Commissione sangue: **Miller Reggiani**
+* Commissione sangue: **Enzo Gozzi**
+* Commissione sangue: **Raoul Bonfiglioli**
+* Commissione Sport: **Giulio Fabbri**
+* Commissione Sport: **Eros Tartari**
+* Commissione Sport: **Elisa Buzzi**
+* Responsabile Sito Internet: **Enrico Bergamini**
 
-* Commisione Stampa: **Fabio Bergamini**
-* Commissione Raccolta sangue: **Giuseppe Rigattieri, Raoul Bonfiglioli**
 
-### Consiglio Esecutivo
-* Mario Sforza - Presidente
-* Antonella Paganini - VicePresidente Vicario
-* Rita Ballerini - Segretario
-* Fabio Bergamini - VicePresidente
-* **Fabrizio Nicoli** - Referente Area Scuola
-* **Elisa Buzzi** - Referente Giovani e Sport
-* **Felilce Manfredini** - Referente Organizzazione e Sviluppo
-* **Giuseppe Rigattieri** - Referente commissione raccolta sangue
-* Raoul Bonfiglioli
-* Andrea Salvi
-* **Graziano Piazzi** - Referente per le Frazioni
+### SOCI COLLABORATORI OSSERVATORI
 
-### Collegio dei Sindaci Revisori 
-* **Franco Vallieri, Franco Frignani, Cristina Turatti**
+* Commissione sangue: **Daniele Paganelli**
+* Commissione sangue: **Stefano Boschetti**
+* Attività associativa: **Lino Vancini**
+* Attività associativa: **Davide Morandi**
+* Attività associativa: **Andrea Salvi**
+* Attività associativa: **Andrea Marchetti**
+* Attività associativa: **Daniele Romagnoli**
 
-### Medico Sociale 
-* **Dott. Fabio Bergamini**	
+### COLLEGIO DEI REVISORI DEI CONTI
 
-### Soci Collaboratori
-
-* Area Scuola: **Fabio Bergamini**, **Stefania Bellini**
-* Organizzazione e Sviluppo: **Davide Morandi**
-* Raccolta Sangue: **Miller Reggiani**
-* Rapporti con le Avis consorelle: **Andrea Salvi**, **Lino Vancini**
+* **Franco Frignani**
+* **Franco Vallieri**
+* **Giulio Poletti**
