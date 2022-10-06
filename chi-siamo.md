@@ -28,11 +28,10 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 * Segretario: **Rita Ballerini**
 <!-- * Direttore Sanitario: **Sara Cornacchini** -->
 * Organizzazione e Segreteria: **Maria Guerzoni**
-* Raccolta Sangue: **Luigi Migliari**
+* Organizzazione e Segreteria: **Luigi Migliari**
 * Gestione donatori: **Giuseppe Rigattieri**
 * Organizzazione e sviluppo: **Felice Manfredini**
 * Scuola: **Fabrizio Nicoli**
-* Giovani e Sport: **Daniele Boschetti**
 * Frazioni: **Graziano Piazzi**
 
 
@@ -42,10 +41,8 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 * Commissione sangue: **Enzo Gozzi**
 * Commissione sangue: **Raoul Bonfiglioli**
 * Commissione sangue: **Andrea Marchetti**
-
 * Commissione Sport: **Giulio Fabbri**
 * Commissione Sport: **Elisa Buzzi**
-
 * Responsabile Sito Internet: **Enrico Bergamini**
 
 ### Soci Collaboratori
