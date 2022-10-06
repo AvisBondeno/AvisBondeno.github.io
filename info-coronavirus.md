@@ -27,6 +27,8 @@ Ti aspettiamo!!
 
 Leggi la [lettera di ringraziamento ai donatori](/CIVIS-lettera-ringraziamento.pdf) e raccomandazioni su programmazione raccolta
 
+<!--
 <div id="container" style='position: center'>
 <img src="/images/andare-a-donare.jpg">
 </div>
+-->

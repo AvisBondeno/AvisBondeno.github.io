@@ -1,4 +1,4 @@
-I"<div id="container">
+I"%<div id="container">
 <img src="/images/covid19-non-ci-ferma.jpg" />
 </div>
 
@@ -22,7 +22,9 @@ Per più informazioni consulta le nostre pagine:</p>
 
 <p>Leggi la <a href="/CIVIS-lettera-ringraziamento.pdf">lettera di ringraziamento ai donatori</a> e raccomandazioni su programmazione raccolta</p>
 
-<div id="container" style="position: center">
-<img src="/images/andare-a-donare.jpg" />
+<!--
+<div id="container" style='position: center'>
+<img src="/images/andare-a-donare.jpg">
 </div>
+-->
 :ET

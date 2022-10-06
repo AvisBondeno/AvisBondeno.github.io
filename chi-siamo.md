@@ -26,12 +26,13 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 * Vice-Presidente Vicario con delega **"Tesoriere"**: **Antonella Paganini**
 * Vice-Presidente con delega **"Propaganda Informatica Scuola"**: **Luca Palazzi**
 * Segretario: **Rita Ballerini**
-* Direttore Sanitario: **Sara Cornacchini**
+<!-- * Direttore Sanitario: **Sara Cornacchini** -->
+* Organizzazione e Segreteria: **Maria Guerzoni**
 * Raccolta Sangue: **Luigi Migliari**
 * Gestione donatori: **Giuseppe Rigattieri**
-* Coordinamento attività associativa: **Felice Manfredini**
+* Organizzazione e sviluppo: **Felice Manfredini**
 * Scuola: **Fabrizio Nicoli**
-* Giovani e Sport: **Mauro Costanzelli**
+* Giovani e Sport: **Daniele Boschetti**
 * Frazioni: **Graziano Piazzi**
 
 
@@ -40,20 +41,19 @@ Il Collegio esercita l’attività di controllo degli atti amministrativi del Co
 * Commissione sangue: **Miller Reggiani**
 * Commissione sangue: **Enzo Gozzi**
 * Commissione sangue: **Raoul Bonfiglioli**
+* Commissione sangue: **Andrea Marchetti**
+
 * Commissione Sport: **Giulio Fabbri**
-* Commissione Sport: **Eros Tartari**
 * Commissione Sport: **Elisa Buzzi**
+
 * Responsabile Sito Internet: **Enrico Bergamini**
 
 ### Soci Collaboratori
-
-* Commissione sangue: **Daniele Paganelli**
-* Commissione sangue: **Stefano Boschetti**
 * Attività associativa: **Lino Vancini**
 * Attività associativa: **Davide Morandi**
 * Attività associativa: **Andrea Salvi**
-* Attività associativa: **Andrea Marchetti**
 * Attività associativa: **Daniele Romagnoli**
+* Attività associativa: **Eros Tartari**
 
 ### Collegio dei Sindaci Revisori dei Conti 
 
