@@ -310,9 +310,7 @@ permalink: /manifestazioni-associative/
 		<!--<figure>-->
 			<div class=""><img src="/images/manifestazione_2022/IMG_9407_LR.jpg" alt></div>
 	<!--</figure>-->
-
 </div>
-
 
 
 
