@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Manifestazione Associativa 2023
-permalink: /manifestazione2023/
+permalink: /manifestazioni-associative/manifestazione2023/
 ---
 
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
