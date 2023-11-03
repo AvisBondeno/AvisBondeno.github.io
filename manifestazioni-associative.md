@@ -10,7 +10,7 @@ permalink: /manifestazioni-associative/
  -->
 
 ### Manifestazione 2023
-<a href='https://avis-bondeno.it/manifestazioni-associative/manifestazione2023.html'> CLICCA QUI </a> PER VEDERE LE FOTO
+<a href='http://avis-bondeno.it/manifestazioni-associative/manifestazione2023.html'> CLICCA QUI </a> PER VEDERE LE FOTO
 
 
 ### Manifestazione 2022
