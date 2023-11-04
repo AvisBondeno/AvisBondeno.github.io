@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Manifestazione Associativa 2023
+title: Festa del Donatore 2023
 permalink: /manifestazioni-associative/manifestazione2023/
 ---
 
@@ -9,7 +9,9 @@ permalink: /manifestazioni-associative/manifestazione2023/
 <script type="text/javascript" src='http://avis-bondeno.it/slick/slick.js'></script>
  -->
 
-### Manifestazione 2023
+### Festa del Donatore 2023
+
+ Qui le fotografie della Giornata del Donatore 2023, tenutasi sabato 23 settembre 2023 a Santa Bianca presso la struttura della Sagra della Rana.
 
 <div class="carousel">
 <!--  <figure class="slider">-->

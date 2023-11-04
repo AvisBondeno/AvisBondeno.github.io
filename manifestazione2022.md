@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Manifestazione Associativa 2022
+title: Festa del Donatore 2022
 permalink: /manifestazioni-associative/manifestazione2022/
 ---
 
@@ -9,7 +9,7 @@ permalink: /manifestazioni-associative/manifestazione2022/
 <script type="text/javascript" src='http://avis-bondeno.it/slick/slick.js'></script>
  -->
 
-### Manifestazione 2022
+### Festa del Donatore 2022
 
 <div class="carousel">
 <!--  <figure class="slider">-->

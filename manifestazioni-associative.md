@@ -9,12 +9,11 @@ permalink: /manifestazioni-associative/
 <script type="text/javascript" src='http://avis-bondeno.it/slick/slick.js'></script>
  -->
 
-### Manifestazione 2023
+### Festa del Donatore 2023
 <a href='/manifestazioni-associative/manifestazione2023'> CLICCA QUI </a> PER VEDERE LE FOTO
 
-
-### Manifestazione 2022
+### Festa del Donatore 2022
 <a href='/manifestazioni-associative/manifestazione2022'> CLICCA QUI </a> PER VEDERE LE FOTO
 
-### Manifestazione 2019
+### Festa del Donatore 2019
 <a href='/manifestazioni-associative/manifestazione2019'> CLICCA QUI </a> PER VEDERE LE FOTO

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Manifestazione Associativa 2019
+title: Festa del Donatore 2019
 permalink: /manifestazioni-associative/manifestazione2019/
 ---
 
@@ -9,7 +9,7 @@ permalink: /manifestazioni-associative/manifestazione2019/
 <script type="text/javascript" src='http://avis-bondeno.it/slick/slick.js'></script>
  -->
 
-### Manifestazione 2019
+### Festa del Donatore 2019
 
 <div class="carousel">
     <!-- <figure class="slider"> -->
