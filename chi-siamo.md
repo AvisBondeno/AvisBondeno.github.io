@@ -16,44 +16,32 @@ L’Esecutivo delibera autonomamente, riferendo al Consiglio, sugli argomenti di
 
 Il Collegio esercita l’attività di controllo degli atti amministrativi del Consiglio Direttivo della propria struttura.
 
-
-## *Quadriennio 2021 - 2024*
+## *Quadriennio 2025 - 2028*
 
 ## Consiglio Direttivo
 ### Consiglio Esecutivo
 
-* Presidente: **Mario Sforza**
-* Vice-Presidente Vicario con delega **"Tesoriere"**: **Antonella Paganini**
-* Vice-Presidente con delega **"Propaganda Informatica Scuola"**: **Luca Palazzi**
-* Segretario: **Rita Ballerini**
-<!-- * Direttore Sanitario: **Sara Cornacchini** -->
-* Organizzazione e Segreteria: **Maria Guerzoni**
-* Organizzazione e Segreteria: **Luigi Migliari**
-* Gestione donatori: **Giuseppe Rigattieri**
-* Organizzazione e sviluppo: **Felice Manfredini**
-* Scuola: **Fabrizio Nicoli**
-* Frazioni: **Graziano Piazzi**
-
+* Presidente: **Luca Palazzi**
+* Vice-Presidente: **Mario Sforza**
+* Vice-Presidente Vicario: **Antonella Paganini**
+* Segretario: **Andrea Merighi**
+* Tesoriere: **Luigi Migliari**
+* Responsabile Gestione Eventi – Logistica – Organizzazione Risorse: **Felice Manfredini**
+* Responsabile Raccolta Sangue: **Giuseppe Rigattieri**
+* Responsabile Sviluppo Comunicazione – Sport – Giovani: **Francesco Andreoli**
 
 ### Consiglieri
 
-* Commissione sangue: **Miller Reggiani**
-* Commissione sangue: **Enzo Gozzi**
-* Commissione sangue: **Raoul Bonfiglioli**
-* Commissione sangue: **Andrea Marchetti**
-* Commissione Sport: **Giulio Fabbri**
-* Commissione Sport: **Elisa Buzzi**
-* Responsabile Sito Internet: **Enrico Bergamini**
+* **Rita Ballerini**
+* **Raoul Bonfiglioli**
+* **Elisa Buzzi**
+* **Giulio Fabbri**
+* **Enzo Gozzi**
+* **Andrea Marchetti**
+* **Graziano Piazzi**
+* **Clieante Ravani**
+* **Miller Reggiani**
 
-### Soci Collaboratori
-* Attività associativa: **Lino Vancini**
-* Attività associativa: **Davide Morandi**
-* Attività associativa: **Andrea Salvi**
-* Attività associativa: **Daniele Romagnoli**
-* Attività associativa: **Eros Tartari**
+### Addetto Contabile
 
-### Collegio dei Sindaci Revisori dei Conti 
-
-* Membro Effettivo: **Franco Frignani**
-* Membro Effettivo: **Franco Vallieri**
-* Membro Effettivo: **Giulio Poletti**
+* **Franco Vallieri**
